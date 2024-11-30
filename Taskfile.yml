@@ -1,0 +1,8 @@
+version: '3'
+
+tasks:
+
+  run:
+    desc: Run
+    cmd: dotnet run -c Release
+
